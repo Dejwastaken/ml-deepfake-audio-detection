@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(dir:*)",
+      "Bash(pip install:*)",
+      "Bash(conda:*)",
+      "Bash(C:UsersAdministratorminiconda3envsyolohelmpython.exe helmetdetection.py)",
+      "Bash(\"C:\\Users\\Administrator\\miniconda3\\envs\\yolohelm\\python.exe\" helmetdetection.py)",
+      "Bash(\"C:\\Users\\Administrator\\miniconda3\\envs\\yolohelm\\Scripts\\pip.exe\" install tqdm)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
